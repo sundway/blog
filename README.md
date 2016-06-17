@@ -1,8 +1,6 @@
 ### 关于我
 [sundway](http://weibo.com/sundway)，喜欢开源硬件，研究三年（2011-2014），迫于生活压力转到前端（2014- 🐶 ）。
 
-![](https://gw.alicdn.com/tps/TB1B1MNKpXXXXa1XXXXXXXXXXXX-389-267.png)
-
 ### 前端文章
 * [渲染性能](https://github.com/sundway/blog/issues/2)
 
