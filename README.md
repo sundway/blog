@@ -10,6 +10,8 @@
 ### Node Iot 系列文章
  > 近期和@phodal, @Lboyve上线一个应用：[玩点什么](https://www.wandianshenme.com/), 如果你对 Iot感兴趣，欢迎一起来搞事情。
  * [使用 Amazon Echo 和 MESH IoT 制作一个自动浇花器](https://github.com/sundway/blog/issues/6)
+ * [在 mbed 上开始使用 LoRa](https://github.com/sundway/blog/issues/7)
+   * [创建你自己的私有 LoRa 网络](https://github.com/sundway/blog/issues/8)
   
   
   
