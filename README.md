@@ -15,6 +15,7 @@
  * [使用 Amazon Echo 和 MESH IoT 制作一个自动浇花器](https://github.com/sundway/blog/issues/6)
  * [在 mbed 上开始使用 LoRa](https://github.com/sundway/blog/issues/7)
    * [创建你自己的私有 LoRa 网络](https://github.com/sundway/blog/issues/8)
+   * [在 LORIOT 创建你的 LoRa 网络](https://github.com/sundway/blog/issues/10)
   
   
   
