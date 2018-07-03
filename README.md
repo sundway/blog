@@ -13,6 +13,9 @@
 ### 国际化
 * [前端国际化](https://github.com/sundway/blog/issues/9)
 
+### SVG
+* [SVG滤镜对图片调色](https://github.com/sundway/blog/issues/14)
+
 ### Node IoT 系列文章
  > 近期和@phodal, @Lboyve上线一个应用：[玩点什么](https://www.wandianshenme.com/), 如果你对 IoT 感兴趣，欢迎一起来搞事情。
  * [使用 Amazon Echo 和 MESH IoT 制作一个自动浇花器](https://github.com/sundway/blog/issues/6)
