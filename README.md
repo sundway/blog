@@ -9,6 +9,7 @@
 * [WebGL 初探](https://github.com/sundway/blog/issues/3)
 * [绘制三角形](https://github.com/sundway/blog/issues/4)
 * [矩阵变换](https://github.com/sundway/blog/issues/5)
+* [旋转](https://github.com/sundway/blog/issues/15)
 
 ### 国际化
 * [前端国际化](https://github.com/sundway/blog/issues/9)
